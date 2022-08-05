@@ -1,4 +1,4 @@
-import React, { useContext, useState } from 'react';
+import React, { useContext } from 'react';
 import Card from './shared/Card';
 import CircleBadge from './shared/CircleBadge';
 import { FaEdit, FaTimes } from 'react-icons/fa';
